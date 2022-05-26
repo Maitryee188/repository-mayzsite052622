@@ -1,0 +1,13 @@
+{
+    "name": "wpengine/wpengine-web-vitals-tracking",
+    "description": "Track core web vitals data and save history, powers a dashboard with 24h and one month of historic data, shows worsts pages..",
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Performance Team",
+            "email": "noreply@wpengine.com"
+        }
+    ],
+    "require": {}
+}
